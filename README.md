@@ -9,7 +9,7 @@ This is a solution to the [Advice Generator App challenge on Frontend Mentor](ht
 ## Links
 
 - Solution URL: [Solution URL](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db)
-- Live Site URL: [Live Solution](https://dictionary-web-app-five.vercel.app/)
+- Live Site URL: [Live Solution](https://advice-generator-front-end-mentor-mu.vercel.app/)
 
 ## Built with
 
