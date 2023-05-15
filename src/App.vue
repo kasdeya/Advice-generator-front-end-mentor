@@ -51,6 +51,13 @@ export default {
 
 <style scoped>
 
+body {
+  min-height: 100vh;
+display: flex; 
+text-align: center; 
+align-items: center;
+}
+
 .card {
   position: relative;
   background-color: var(--dark-grayish-blue);
