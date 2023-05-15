@@ -85,6 +85,7 @@ export default {
   left: 0;
   right: 0;
   margin: auto;
+  width: fit-content;
 }
 
 .card button:hover {
